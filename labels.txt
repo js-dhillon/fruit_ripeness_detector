@@ -1,0 +1,9 @@
+ripe apple
+ripe banana
+ripe orange
+rotten apple
+rotten banana
+rotten orange
+unripe apple
+unripe banana
+unripe orange
